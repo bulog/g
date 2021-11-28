@@ -19,7 +19,7 @@
     "@tailwindcss/typography": "^0.4.1",
     "autoprefixer": "^10.4.0",
     "@types/tailwindcss": "^2.2.1",
-    "tailwindcss": "^2.2.16",
+    "tailwindcss": "^2.2.19",
     "@vue/compiler-sfc": "^3.2.19",
     "@vitejs/plugin-vue": "^1.9.2",
     "vite": "^2.6.2"
