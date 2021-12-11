@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.23",
+    "vue": "^3.2.24",
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
@@ -20,7 +20,6 @@
     "@types/tailwindcss": "^2.2.4",
     "autoprefixer": "^10.4.0",
     "tailwindcss": "^2.2.19",
-    "@vue/compiler-sfc": "^3.2.23",
     "@vitejs/plugin-vue": "^1.10.2",
     "vite": "^2.6.14"
   }
