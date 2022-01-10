@@ -17,7 +17,7 @@
     "@tailwindcss/line-clamp": "^0.3.0",
     "@tailwindcss/forms": "^0.3.4",
     "@tailwindcss/typography": "^0.4.1",
-    "@types/tailwindcss": "^2.2.4",
+    "@types/tailwindcss": "^3.0.2",
     "autoprefixer": "^10.4.0",
     "tailwindcss": "^2.2.19",
     "@vitejs/plugin-vue": "^1.10.2",
